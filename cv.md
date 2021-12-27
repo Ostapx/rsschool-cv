@@ -31,12 +31,8 @@ I am currently taking a JS/FE Pre-school
 * Latin
 
 ### Code  ([taken from registration CW](https://www.codewars.com/))
-        int multiply (int a, int b) {
-
-    int result;
-
-    result = a * b;
-
-    return(result); }
+       {
+           I tried to solve the task for registration but could not
+       }
 -------
    ### Oh yes, my first project - meet my CV :)
