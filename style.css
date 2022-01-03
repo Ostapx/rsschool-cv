@@ -1,0 +1,37 @@
+
+.h1 {
+    font-weight: bold;
+    font-size: 25px;
+    color: blueviolet;
+    text-align: center;
+}
+
+.picture {
+    text-align: center;
+}
+
+.descript {
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(77, 20, 131);
+    text-align: center;
+}
+
+.myself {
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+.courses {
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgb(37, 86, 247);
+    text-align: left;
+}
+
+.p12 {
+    text-align: justify;
+    text-decoration: blueviolet;
+    padding-bottom:  2px;
+}
